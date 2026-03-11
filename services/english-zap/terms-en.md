@@ -3,13 +3,13 @@
 Last updated: March 10, 2025
 
 1. **Applicability**
-These terms define the conditions for using the app “English Zap” (the “Service”), which is provided by an individual. By using the Service, you are deemed to have agreed to these terms.
+These terms define the conditions for using the app "English Zap" (the "Service"), which is provided by an individual. By using the Service, you are deemed to have agreed to these terms.
 
 2. **Service Description**
 The Service is an app that provides English search, saving, review, and related features. What is available for free is determined by the in-app specifications and may change.
 
 3. **Paid Plan (Pro)**
-Billing, cancellation, refunds, and related matters for the paid plan (Pro) are governed by Apple’s subscription terms. Pricing and billing periods may change in the future; in that case, the information shown in the App Store will apply.
+Billing, cancellation, refunds, and related matters for the paid plan (Pro) are governed by Apple's subscription terms. Pricing and billing periods may change in the future; in that case, the information shown in the App Store will apply.
 
 4. **Prohibited Use**
 You may not use the Service for purposes that violate the law or in any way that interferes with the operation of the Service.
