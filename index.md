@@ -1,6 +1,6 @@
 # Policies
 
-サービス別のプライバシーポリシー・利用規約へのリンクです。
+Links to privacy policies and terms of use by service.
 
 ## Services
 
